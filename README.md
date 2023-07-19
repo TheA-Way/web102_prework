@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://g.recordit.co/h0N9VTPK6E.gif' title='Video Walkthrough' width= 100px alt='Video Walkthrough' />
+<img src='assets/walkthrough.gif' title='Video Walkthrough' width= 100px alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with RecordIt  
@@ -38,7 +38,7 @@ Finding the keys were hard because I would misunderstand the instructions from t
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2023] [Oghenetejiri Ewherido]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
